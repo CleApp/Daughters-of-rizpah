@@ -459,7 +459,7 @@
         }
       .info li a:hover{
             color: var(--secondary-color);
-            border-bottom: #f3ad18 2px solid;
+       
 
         }
         .brand{
@@ -642,4 +642,5 @@
                 font-size: 0.9rem;
             }
         }
+
 
