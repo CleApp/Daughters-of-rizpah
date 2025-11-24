@@ -828,3 +828,45 @@ footer {
         padding: 0.6rem 0.8rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** ggjiop; **/
+/* Add to improve performance */
+img {
+  loading: lazy;
+}
+
+/* Improve form UX */
+.form-group {
+  position: relative;
+}
+
+.error-message {
+  color: #ff4444;
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: -20px;
+}
