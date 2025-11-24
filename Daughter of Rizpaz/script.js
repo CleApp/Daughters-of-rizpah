@@ -25,4 +25,24 @@
                 hamburger.classList.remove('active');
                 navMenu.classList.remove('active');
             }
-        });
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+// Add form validation
+function validateForm(formData) {
+  // Implementation needed
+}
+
+// Add image lazy loading
+const images = document.querySelectorAll('img[data-src]');
